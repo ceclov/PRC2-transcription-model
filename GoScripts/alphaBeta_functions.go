@@ -7,7 +7,7 @@ import (
 )
 
 func Fig3b() {
-	numCPU = runtime.NumCPU() - 1
+	
 
 	saveParams := false
 	importParams := false
